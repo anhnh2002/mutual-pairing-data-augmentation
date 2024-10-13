@@ -1,7 +1,4 @@
 # Mutual-pairing data augmentation for FCRE
-```bash
-git clone
-```
 
 ## FCRE
 
